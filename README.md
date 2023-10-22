@@ -43,7 +43,7 @@ Futuramente
 >Colocar aqui uma imagem da equipe com a logo do grupo.
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+ <img src="https://github.com/Tauane21/API-Atualizado/blob/main/Sprint%201/imagem/foto%20do%20grupo.jpg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
