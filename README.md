@@ -52,6 +52,7 @@ Futuramente
 
 ## Sprint 1
 •	Foi realizado uma análise SWOT para entender a situação da empresa;
+
 •	Propomos como manter as vendas aquecidas nos demais meses e ideias de como cortar custos.
 
 <p align="center">
@@ -68,6 +69,7 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/aa4812fd-c92b-4985-9
 
 ## Sprint 3
 • Foi apresentado uma Curva ABC dos itens de Manutenção listados pelo cliente. 
+
 • Sugerimos quais itens o comprador responsável deve focar e o porquê. 
 
 https://github.com/Tauane21/API-Atualizado/assets/141972817/16750bff-dc8f-4ee6-9500-12e2cb76af80
@@ -85,11 +87,17 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/eb962b32-a097-4541-8
 
 ### Tecnológias Específicas/Apoio
 > Excel
+> 
 > Power Point
+> 
 > Word
+> 
 > Canvas
+> 
 > Davinci Resolve
+> 
 > Photoshop
+> 
 > Adobe Fireworks
   
 ### Mindset Digital
@@ -119,27 +127,40 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção
 -[x] "Relátorio SWOT"
+
 -[x] "Roteiro"
+
 -[x] "Confecção do video"
 
 ## Sprint 2 - Desenvolvimento do Projeto
 -[x] "Previsão de demanda no Excel"
+
 -[x] "Gráfico de Média Móvel e Média Ponderada"
+
 -[x] "Roteiro"
+
 -[x] "Confecção do video"
       
 ## Sprint 3 - Implementação
 -[x] "Curva ABC"
+
 -[x] "Definir quais items focar"
+
 -[x] "Gráfico ABC"
+
 -[x] "Roteiro"
+
 -[x] "Confecção do video"
       
 ## Sprint 4 - Operacionalização
 -[x] "Pesquisa de mercado"
+
 -[x] "Elaborar um modelo Canvas"
+
 -[x] "Sugerir no modelo de negócio"
+
 -[x] "Roteiro"
+
 -[x] "Confecção do video"
 
 # Competências desenvolvidas
