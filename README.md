@@ -66,6 +66,8 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/e63af323-7deb-4a43-a
 >Descrever aqui o que foi entregue na sprint
 >Colocar o vídeo da apresentação
 
+https://github.com/Tauane21/API-Atualizado/assets/141972817/aa4812fd-c92b-4985-93a7-9b0b4f7fdc40
+
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
 </p>
