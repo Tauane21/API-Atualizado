@@ -134,8 +134,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
+> Técnicas em SWOT, Curva ABC, Canvas, Previsão de demanda
+> Github
+> Gráficos em Excel 
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
