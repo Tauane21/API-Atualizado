@@ -53,7 +53,6 @@ Futuramente
 
 ## Sprint 1
 >Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
 <p align="center">
  
@@ -64,7 +63,6 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/e63af323-7deb-4a43-a
 
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
 https://github.com/Tauane21/API-Atualizado/assets/141972817/aa4812fd-c92b-4985-93a7-9b0b4f7fdc40
 
@@ -74,7 +72,6 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/aa4812fd-c92b-4985-9
 
 ## Sprint 3
 >Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
 https://github.com/Tauane21/API-Atualizado/assets/141972817/16750bff-dc8f-4ee6-9500-12e2cb76af80
 
@@ -84,7 +81,8 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/16750bff-dc8f-4ee6-9
 
 ## Sprint 4
 >Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+
+https://github.com/Tauane21/API-Atualizado/assets/141972817/eb962b32-a097-4541-8688-b19ab5ef08aa
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
