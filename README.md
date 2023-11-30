@@ -56,7 +56,8 @@ Futuramente
 >Colocar o vídeo da apresentação
 
 <p align="center">
- !(https://github.com/Tauane21/API-Atualizado/blob/main/Sprint%201/ARAND%C3%9A%20-%20SPRINT%201.mp4)
+![4p9p4o](https://github.com/Tauane21/API-Atualizado/issues/15#issue-2019078740)
+
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
 </p>
 
