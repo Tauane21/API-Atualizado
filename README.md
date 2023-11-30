@@ -39,69 +39,58 @@ Futuramente
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
-# Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+# Equipe Arandú é composta por 5 integrantes
 
 <p align="center">
  <img src="https://github.com/Tauane21/API-Atualizado/blob/main/Sprint%201/imagem/foto%20do%20grupo.jpg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+•	Aprender e aplicar técnicas de Sprints para auxiliar a empresa Doce Sabor a melhorar suas vendas e como se manter ativa no mercado
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
+•	Foi realizado uma análise SWOT para entender a situação da empresa;
+•	Propomos como manter as vendas aquecidas nos demais meses e ideias de como cortar custos.
 
 <p align="center">
  
 https://github.com/Tauane21/API-Atualizado/assets/141972817/e63af323-7deb-4a43-ac08-230a4ffdb46c
 
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
-</p>
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
+• Foi realizado uma previsão de demanda de produtos para o período de setembro/2023 a agosto/2024
 
 https://github.com/Tauane21/API-Atualizado/assets/141972817/aa4812fd-c92b-4985-93a7-9b0b4f7fdc40
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
-</p>
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
+• Foi apresentado uma Curva ABC dos itens de Manutenção listados pelo cliente. 
+• Sugerimos quais itens o comprador responsável deve focar e o porquê. 
 
 https://github.com/Tauane21/API-Atualizado/assets/141972817/16750bff-dc8f-4ee6-9500-12e2cb76af80
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
-</p>
 
 ## Sprint 4
->Descrever aqui o que foi entregue na sprint
+• Realizamos uma pesquisa de mercado e sugerimos para os sócios da Doce Sabor começarem a produzir salgadinhos de festa. 
 
 https://github.com/Tauane21/API-Atualizado/assets/141972817/eb962b32-a097-4541-8688-b19ab5ef08aa
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
-</p>
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
-</p>
 
 ## Tecnologias Utilizadas
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+> Excel
+> Power Point
+> Word
+> Canvas
+> Davinci Resolve
+> Photoshop
+> Adobe Fireworks
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
