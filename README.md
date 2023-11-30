@@ -57,7 +57,7 @@ Futuramente
 
 <p align="center">
  
-https://github.com/Tauane21/API-Atualizado/issues/15#issue-2019078740
+https://github.com/Tauane21/API-Atualizado/assets/141972817/e63af323-7deb-4a43-ac08-230a4ffdb46c
 
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
 </p>
