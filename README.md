@@ -118,34 +118,43 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+-[x] "Relátorio SWOT"
+-[x] "Roteiro"
+-[x] "Confecção do video"
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+-[x] "Previsão de demanda no Excel"
+-[x] "Gráfico de Média Móvel e Média Ponderada"
+-[x] "Roteiro"
+-[x] "Confecção do video"
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+-[x] "Curva ABC"
+-[x] "Definir quais items focar"
+-[x] "Gráfico ABC"
+-[x] "Roteiro"
+-[x] "Confecção do video"
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
+-[x] "Pesquisa de mercado"
+-[x] "Elaborar um modelo Canvas"
+-[x] "Sugerir no modelo de negócio"
+-[x] "Roteiro"
+-[x] "Confecção do video"
 
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
-## Hard Skill (saber tecnológico)
-> Técnicas em SWOT, Curva ABC, Canvas, Previsão de demanda
-> Github
-> Gráficos em Excel 
+## Hard Skill (saber tecnológico) 
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Técnicas em SWOT | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Curva ABC | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Canvas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Previsão de demanda | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Github | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gráficos em Excel | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -155,8 +164,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Comunicação em Grupo | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Habilidade Interpessoal | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
