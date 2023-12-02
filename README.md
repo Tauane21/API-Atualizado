@@ -108,7 +108,7 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/eb962b32-a097-4541-8
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/Tauane21/projects/9)
 
 
 ## Backlog do produto
