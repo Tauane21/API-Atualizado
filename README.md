@@ -1,17 +1,14 @@
-# Aprendizado por Projeto Integrado (API) - Arandú
+• Aprendizado por Projeto Integrado (API) - Arandú
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
-* [Backlog do Produto](#backlog-do-produto)
-* [Burndown](#burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -20,16 +17,13 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|01 | 24/09/2023 | concluido | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  15/10/2023| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 05/11/2023 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 26/11/2023 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|12/12/2023 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-
-> Possíveis status: a fazer, em progresso e concluido
-
+Sprint | Previsão | Status| 
+|------|--------|------|
+|01 | 24/09/2023 | concluido | 
+|02|  15/10/2023| concluido |
+|03| 05/11/2023 | concluido |
+|04| 26/11/2023 | concluido |
+|Feira de Soluções|12/12/2023 | concluido |
 # Micro Certificações
 Futuramente
 
@@ -79,10 +73,6 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/16750bff-dc8f-4ee6-9
 
 https://github.com/Tauane21/API-Atualizado/assets/141972817/eb962b32-a097-4541-8688-b19ab5ef08aa
 
-## Tecnologias Utilizadas
-### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
-
 ### Tecnológias Específicas/Apoio
 > Excel
 > 
@@ -97,21 +87,6 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/eb962b32-a097-4541-8
 > Photoshop
 > 
 > Adobe Fireworks
-  
-
-## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
-
-## Burndown
->Colocar aqui Burndown do projeto
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
 
 ## Sprint 1 - Concepção
 -[x] "Relátorio SWOT"
@@ -151,8 +126,6 @@ https://github.com/Tauane21/API-Atualizado/assets/141972817/eb962b32-a097-4541-8
 
 -[x] "Confecção do video"
 
-# Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico) 
   
